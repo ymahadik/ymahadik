@@ -1,10 +1,10 @@
 <div align="center">
+ 
 # Yash Mahadik
  
 *Data Analyst · Curious Generalist · Lifelong Learner*
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashnpmahadik)
  
 </div>
 ---
