@@ -12,11 +12,12 @@
  
 ## About Me
  
-I'm a data analyst with an MSBA background, drawn to problems that sit at the intersection of analytics, technology, and human decision-making. I care less about flashy results and more about mechanisms — what drives outcomes, why those drivers persist, and how to measure them responsibly.
+
+I'm a data analyst with an MSBA background who genuinely enjoys the kind of problems that don't fit neatly into one box — where analytics, technology, and human behavior all have something to say.
  
-My current focus is on AI adoption and value creation, especially the distinction between substantive and promotional value creation over the long run. I'm drawn to questions like: What changes behavior? What changes cost structures? What actually compounds?
+I care less about flashy results and more about mechanisms: what drives outcomes, why those drivers persist, and how to measure them responsibly. My current focus is on AI adoption and value creation — particularly what separates substantive, lasting impact from noise. The questions I keep coming back to are simple but hard: What actually changes behavior? What changes cost structures? What compounds?
  
-I'm drawn to problems that require both depth and range — building rigorous technical skills while staying curious about the broader systems those skills operate in. Right now that means going deeper into Python and machine learning, while also exploring how finance, game theory, and organizational behavior shape real-world decisions.
+I believe good work requires both depth and range. So alongside going deeper into Python and machine learning, I'm exploring how finance, game theory, and organizational behavior shape the decisions that matter — and how those systems are more connected than they might first appear.
  
 ---
  
