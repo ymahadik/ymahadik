@@ -72,7 +72,7 @@ Predictive analytics and machine learning to assess crop adaptation needs under 
  
 ## 💬 Let's Connect
  
-I write to refine my thinking and share what I learn about the rapidly evolving AI landscape. If something here resonates — or if you're working on something at the intersection of data, AI, and real-world decision-making — I'd love to hear from you.
+I write to refine my thinking and share what I learn about the rapidly evolving AI landscape. If something here resonates or if you're working on something at the intersection of data, AI, and real-world decision-making, I'd love to hear from you.
  
 💼 [LinkedIn](https://www.linkedin.com/in/yashnpmahadik/)
  
