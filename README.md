@@ -2,7 +2,7 @@
  
 # Yash Mahadik
  
-*Data Analyst · Curious Generalist · Lifelong Learner*
+*Data Analyst · Lifelong Learner*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashnpmahadik/)
  
